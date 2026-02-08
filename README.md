@@ -1,3 +1,2 @@
 ## -
-![Typing SVG](https://readme-typing-svg.herokuapp.com?
-lines=R34L+S1NN3R&center=true&width=500)
+![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=[{"text":"Hello+World!"},{"text":"I+code+cool+stuff!"}]&font=Courier+Prime&color=%23FF4F5A&cursorStyle=block)
